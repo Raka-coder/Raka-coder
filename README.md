@@ -3,6 +3,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&amp;font=IBM+Plex+Sans&amp;color=abcdef&amp;size=20&amp;lines=Welcome+to+my+GitHub+Profile!;I'm+also+studying+Computer+Engineering"></a>
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=Raka-coder&icon=5&color=1)](https://visitcount.itsvg.in)
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakresptra ) 
 
@@ -14,6 +17,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raka-coder&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Raka-coder&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
