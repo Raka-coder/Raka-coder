@@ -16,6 +16,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Raka-coder&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raka-coder&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p>Credits: <a href="https://github.com/Raka-coder">Raka</a></p>
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
