@@ -19,11 +19,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-###
-
-<br clear="both">
-
-![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
-
-###
+[![](https://visitcount.itsvg.in/api?id=Raka-coder&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
