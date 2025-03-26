@@ -15,3 +15,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raka-coder&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=Raka-coder&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Raka-coder&style=flat-square)
