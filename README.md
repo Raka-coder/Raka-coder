@@ -36,22 +36,22 @@
 
 ---
 
-### 📊 GitHub Analytics
+<!-- ### 📊 GitHub Analytics -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raka-coder&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raka-coder&layout=compact&theme=tokyonight&hide_border=true" />
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raka-coder&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raka-coder/Raka-coder/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Raka-coder/Raka-coder/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
