@@ -68,14 +68,11 @@
 
 ---
 
-### 📊 GitHub Profile Summary
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Raka-coder?theme=tokyonight" alt="Awesome GitHub Stats" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Raka-coder?cardType=github&theme=tokyonight" alt="GitHub Style Stats" />
 </div>
 
 ---
