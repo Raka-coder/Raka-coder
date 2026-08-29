@@ -68,15 +68,14 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Profile Summary
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raka-coder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raka-coder&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raka-coder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 </div>
 
 ---
