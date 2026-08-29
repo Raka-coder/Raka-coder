@@ -11671,8 +11671,8 @@
         "height": 250
       },
       "config": {
-        "hideBorder": true,
-        "hideDecorations": true,
+        "hideBorder": false,
+        "hideDecorations": false,
         "theme": "light",
         "branch": "main"
       },
@@ -11693,32 +11693,12 @@
         "height": 210
       },
       "config": {
-        "hideBorder": true,
-        "hideDecorations": true
+        "hideBorder": false,
+        "hideDecorations": false
       },
       "locked": false,
       "visible": true,
       "zIndex": 8
-    },
-    {
-      "instanceId": "widget_1787997401089",
-      "widgetId": "streak-stats",
-      "name": "Streak-stats Widget",
-      "position": {
-        "x": 390,
-        "y": 672
-      },
-      "size": {
-        "width": 400,
-        "height": 210
-      },
-      "config": {
-        "hideBorder": true,
-        "hideDecorations": true
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 9
     },
     {
       "instanceId": "widget_1787997662348",
@@ -11737,6 +11717,26 @@
         "hideBorder": true,
         "hideDecorations": true,
         "showTitle": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 10
+    },
+    {
+      "instanceId": "widget_1788000444268",
+      "widgetId": "streak-stats",
+      "name": "Streak-stats Widget",
+      "position": {
+        "x": 390,
+        "y": 672
+      },
+      "size": {
+        "width": 390,
+        "height": 210
+      },
+      "config": {
+        "hideBorder": false,
+        "hideDecorations": false
       },
       "locked": false,
       "visible": true,
