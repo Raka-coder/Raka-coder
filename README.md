@@ -1,6 +1,6 @@
 <a href="https://gitascii.com">
   <img
-    src="https://gitascii.com/api/Raka-coder?v=1788000198229"
+    src="https://gitascii.com/api/Raka-coder?v=1788000523158"
     alt="GitAscii Widget"
     width="100%"
   />
