@@ -7,7 +7,7 @@
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22C55E&center=true&vCenter=true&width=540&lines=👋+Hello+World!+I'm+Raka+Restu+Saputra;🎓+Computer+Engineering+Student;🌐+Web+Development+%7C+IoT+%7C+Networking;⚡+Building+smart+hardware+%26+scalable+software!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22C55E&center=true&vCenter=true&width=540&lines=👋+Hello!+I'm+Raka+Restu+Saputra;🎓+Computer+Engineering+Student;🌐+Web+Development+%7C+IoT+%7C+Networking;" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -63,9 +63,6 @@ fun_fact: "Always fascinated by how software instructions turn into physical har
   <a href="https://github.com/brunobritodev/awesome-github-stats">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Raka-coder?theme=tokyonight" alt="Awesome GitHub Stats" />
   </a>
-  <a href="https://github.com/brunobritodev/awesome-github-stats">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Raka-coder?cardType=github&theme=tokyonight" alt="GitHub Style Stats" />
-  </a>
 </div>
 
 <br/>
@@ -76,7 +73,7 @@ fun_fact: "Always fascinated by how software instructions turn into physical har
 ### 🧊 `3D Contribution Landscape`
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 <br/>
