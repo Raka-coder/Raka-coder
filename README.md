@@ -1,46 +1,91 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  <h2>Hi, I'm Raka!</h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8AFA&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+studying+Computer+Engineering;Interested+in+Web,+IoT,+%26+Networking" alt="Typing SVG" />
+  <h2>Hi, I'm Raka Restu Saputra! 👋</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8AFA&center=true&vCenter=true&width=460&lines=Welcome+to+my+GitHub+Profile!;Computer+Engineering+Student+🎓;Focused+on+Web+Dev,+IoT,+%26+Networking;Building+cool+things+with+code+%26+circuits!" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/Raka-Restu-Saputra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/rakresptra" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 **Major**: Computer Engineering Student
+- 🔭 **Focus Areas**: **Web Development**, **Internet of Things (IoT)**, and **Computer Networking**
+- 🌱 **Currently Learning**: Embedded systems integration, cloud services, and scalable web apps
+- 💡 **Passion**: Bridging software applications with physical IoT devices and reliable network systems
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><strong>Web Development</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><strong>IoT & Embedded</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+      <img src="https://img.shields.io/badge/ESP32-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+      <img src="https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a" alt="PlatformIO" />
+      <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><strong>Networking & Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raka-coder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raka-coder&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raka-coder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-### � About Me
-
-- 🔭 I’m currently focused on **Web Development**, **IoT**, and **Networking**.
-- 🎓 Computer Engineering Student.
+### 🧊 3D Contribution Graph
 
 <div align="center">
-  <a href="https://instagram.com/rakresptra" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://linkedin.com/in/Raka-Restu-Saputra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </div>
-
-
-
-<!-- <p align="left">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p> -->
-
-<!-- ### 📊 GitHub Analytics -->
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raka-coder&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raka-coder&layout=compact&theme=tokyonight&hide_border=true" />
-</p> -->
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raka-coder&theme=tokyonight&hide_border=true" />
-</p> -->
 
 ---
 
@@ -53,5 +98,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raka-coder&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Raka-coder&style=for-the-badge&color=2E8AFA" alt="Profile Views" />
 </p>
