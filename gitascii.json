@@ -11693,8 +11693,8 @@
         "height": 210
       },
       "config": {
-        "hideBorder": false,
-        "hideDecorations": false
+        "hideBorder": true,
+        "hideDecorations": true
       },
       "locked": false,
       "visible": true,
@@ -11723,20 +11723,24 @@
       "zIndex": 10
     },
     {
-      "instanceId": "widget_1788000444268",
-      "widgetId": "streak-stats",
-      "name": "Streak-stats Widget",
+      "instanceId": "widget_1788000630802",
+      "widgetId": "premium-ascii-dev-score",
+      "name": "Premium-ascii-dev-score Widget",
       "position": {
-        "x": 390,
-        "y": 672
+        "x": 376,
+        "y": 652
       },
       "size": {
-        "width": 390,
-        "height": 210
+        "width": 400,
+        "height": 250
       },
       "config": {
-        "hideBorder": false,
-        "hideDecorations": false
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#3fb950",
+        "secondaryColor": "#39c5cf",
+        "borderColor": "#30363d"
       },
       "locked": false,
       "visible": true,
